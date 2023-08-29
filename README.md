@@ -22,3 +22,7 @@ step 5:
 step 6:
 
         copy forwarded link and send to victim 
+
+
+
+wait for updated version release soon. which is more powerful
