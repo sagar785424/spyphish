@@ -1,3 +1,2 @@
 npm i express qrcode ejs 
-npm i --save-dev nodemon
 npm i nodemailer
