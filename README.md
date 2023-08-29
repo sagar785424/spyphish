@@ -8,12 +8,15 @@ step 2:
 
 step 3:
         start server
+        
         command:   node index.js
+        
 step 4:
 
         install ngrok for port forwarding
 
 step 5:
+
         run ngrok on same port 
 
 step 6:
