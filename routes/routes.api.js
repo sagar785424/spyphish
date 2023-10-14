@@ -1,6 +1,6 @@
 const router = require("express").Router();
 
-const qrrouter = require("../module/qrcode/qr.api");
+//const qrrouter = require("../module/qrcode/qr.api");
 const routerui = require("./routes.ui");
 
 // router.post("/", (req, res, next)=>{
@@ -12,6 +12,6 @@ const routerui = require("./routes.ui");
 // })
 router.use("/", routerui);
 
-router.use("/qr", qrrouter);
+//router.use("/qr", qrrouter);
 
 module.exports = router;
