@@ -1,7 +1,7 @@
 {
   "name": "project",
   "version": "1.0.0",
-  "description": "",
+  "description": "step 1:          Installl node on your device",
   "main": "index.js",
   "scripts": {
     "start": "nodemon",
@@ -17,5 +17,14 @@
   },
   "devDependencies": {
     "nodemon": "^3.0.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DARK-ISP/spyphish.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/DARK-ISP/spyphish/issues"
+  },
+  "homepage": "https://github.com/DARK-ISP/spyphish#readme"
 }
